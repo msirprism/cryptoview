@@ -1,10 +1,10 @@
 # Mongo
-mongo_server    = 'ds184293.mlab.com'   # Find this in your deployment settings
-mongo_id        =  84293                # Find this in your deployment settings
-mongo_client    = 'cryptoview'          # The name of your deployment
-mongo_user      = 'anfederico'          # The username you added as a user to your deployment
-mongo_pass      = 'futureth'            # The password you made for that user
-mongo_portfolio = 'anthony'             # A trivial name you can make it anything
+mongo_server    = 'cluster0-shard-00-01.isbvt.mongodb.net'   # Find this in your deployment settings
+mongo_id        =  27017                # Find this in your deployment settings
+mongo_client    = 'SidFolio'          # The name of your deployment
+mongo_user      = 'mazmaz34'          # The username you added as a user to your deployment
+mongo_pass      = 'mazmaz34'            # The password you made for that user
+mongo_portfolio = 'SidFOlio'             # A trivial name you can make it anything
 
 # Supported Keys
 poloniex_key      = ''
